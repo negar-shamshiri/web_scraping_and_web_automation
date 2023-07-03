@@ -2,7 +2,6 @@ import time
 
 import dash_bootstrap_components as dbc
 import plotly.graph_objects as go
-import requests
 from dash import Dash, Input, Output, dcc, html
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
