@@ -113,7 +113,7 @@ class WebScraping:
             prices = str(search_price.get_attribute('innerHTML'))+"\n"
 
             products_info.append((titles, prices, links, img_src))
-        print(f'***********************\n{products_info}\n***************************')
+        
         return products_info
 
     def create_table(self, products_info):
