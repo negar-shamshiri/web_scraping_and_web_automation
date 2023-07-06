@@ -2,10 +2,10 @@
 Web Scraping and Web Automation with Selenium
 
 ## Description
-This program download fifty search result of a online shop website, [Digikala](https://www.digikala.com/) and show their information(title, link, picture, price) and price chart in a dashboard.
+This program downloads fifty search results of a online shop website, [Digikala](https://www.digikala.com/) and shows their information(titles, links, pictures, prices) and price chart in a dashboard.
 
 
-https://github.com/negar-shamshiri/web_scraping_and_web_automation/assets/35175024/cf3388af-8f99-4cc3-9251-1666af5967e3
+https://github.com/negar-shamshiri/web_scraping_and_web_automation/assets/35175024/b64f8862-43ec-44dd-959b-a51184c883c3
 
 
 ## Install chrome driver in WSL
