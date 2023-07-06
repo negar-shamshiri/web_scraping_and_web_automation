@@ -21,4 +21,3 @@ Then run:
 ```
 python src/webScraping_webAutomation/webScraping_webAutomation.py
 ```
-to generate a word cloud of json data in `DATA_DIR`
